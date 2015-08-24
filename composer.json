@@ -1,0 +1,18 @@
+{
+    "name": "renronghuan/composer-test",
+    "type": "library",
+    "description": "test for composer",
+    "require": {
+        "packagist/test-fruits": "dev-master",
+        "renronghuan/test": "dev-master"                                                                                                                                
+    },  
+    "repositories": [
+        {"type": "composer", "url": "http://packagist.baidu.com"},
+        {"packagist": false}
+    ],
+    "autoload": {
+            "psr-4": {
+                "Vega\\": ""           
+            }
+        }
+}
