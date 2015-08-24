@@ -3,7 +3,6 @@
     "type": "library",
     "description": "test for composer",
     "require": {
-        "packagist/test-fruits": "dev-master",
         "renronghuan/test": "dev-master"                                                                                                                                
     },  
     "repositories": [
