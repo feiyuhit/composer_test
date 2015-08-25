@@ -3,7 +3,7 @@
     "type": "library",
     "description": "test for composer",
     "require": {
-        "renronghuan/test": "1.0.2"
+        "renronghuan/test": "dev-1.0.0-dev"
     },  
     "repositories": [
         {"type": "composer", "url": "http://packagist.baidu.com"},
